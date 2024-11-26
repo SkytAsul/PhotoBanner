@@ -45,3 +45,7 @@ $ python3 banner.py
 ...
 ```
 You will find the pictures with banner added in the `imagesProcessed` folder.
+
+## Notes
+
+The banner can have any size and aspect ratio. It will be automatically scaled to match the size of the images.
